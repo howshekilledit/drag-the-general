@@ -76,9 +76,7 @@ function draw(){
 	if (turn.includes(-1)) {
 		roll_top += increment;
 		roll.style.top = roll_top + "px";
-	}	
-		window.scrollTo(0, scroll);
-	
+	}
 }
 
 // toggle loop on click
