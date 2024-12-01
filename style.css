@@ -1,0 +1,4 @@
+ body {font-family: Monospace; color:white; background:black}
+ .drag{position: absolute; top:20px; left:10px; font-size: 14px; color:white}
+ .attr{color: gray; display: inline}
+ #roll {position: absolute; height: 300px; width: 300px}
